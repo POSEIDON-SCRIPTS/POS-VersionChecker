@@ -1,3 +1,2 @@
 POS-Core: 1.0
 POS-Stores: 1.0
-POS-TimeSync: 1.0
