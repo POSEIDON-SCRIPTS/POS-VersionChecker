@@ -1,4 +1,4 @@
 POS-Core: 1.0
-POS-VersionChecker: 0.0
-POS-Stores: 2.0
-POS-testtttttt: 1.0
+POS-VersionChecker: 1.0
+POS-Stores: 1.0
+POS-TimeSync: 1.0
