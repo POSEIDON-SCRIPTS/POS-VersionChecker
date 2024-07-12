@@ -1,2 +1,3 @@
 POS-Core: 1.0
-POS-Stores: 1.0
+POS-VersionChecker: 0.0
+POS-Stores: 2.0
