@@ -1,0 +1,70 @@
+```{
+  "POS-Admin": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Clans": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-PauseMenu": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-DoorLocks": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Deposits": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-PayCheck": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Stats": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Hud": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Craft": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-ProgressBar": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Doctor": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Core": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Jobs": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-TimeSync": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Vip": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Stores": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-Backpacks": {
+    "version": "1.0",
+    "requiredUpdates": []
+  }
+}```
