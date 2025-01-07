@@ -37,7 +37,12 @@
   },
   "POS-ProgressBar": {
     "version": "1.0",
-    "requiredUpdates": []
+    "requiredUpdates": [
+      {
+        "version":"1.3",
+        "reason":"Added support for custom progress bars"
+      }
+    ]
   },
   "POS-Doctor": {
     "version": "1.0",
