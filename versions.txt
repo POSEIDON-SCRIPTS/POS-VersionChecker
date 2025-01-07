@@ -1,7 +1,0 @@
-POS-Core: 1.0
-POS-VersionChecker: 1.0
-POS-Stores: 1.0
-POS-Jobs: 1.0
-POS-Craft: 1.0
-POS-TimeSync: 1.0
-
