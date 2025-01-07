@@ -36,11 +36,11 @@
     "requiredUpdates": []
   },
   "POS-ProgressBar": {
-    "version": "1.2",
-    "requiredUpdates": ["1.1"]
+    "version": "1.0",
+    "requiredUpdates": []
   },
   "POS-Doctor": {
-    "version": "1.2",
+    "version": "1.0",
     "requiredUpdates": []
   },
   "POS-Core": {
