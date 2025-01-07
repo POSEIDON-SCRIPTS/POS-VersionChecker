@@ -37,7 +37,7 @@
   },
   "POS-ProgressBar": {
     "version": "1.0",
-    "requiredUpdates": []
+    "requiredUpdates": ["1.1"]
   },
   "POS-Doctor": {
     "version": "1.0",
