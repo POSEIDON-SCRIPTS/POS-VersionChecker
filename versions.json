@@ -71,5 +71,9 @@
   "POS-Backpacks": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-Metabolism": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
