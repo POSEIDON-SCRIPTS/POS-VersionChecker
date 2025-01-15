@@ -75,5 +75,9 @@
   "POS-Metabolism": {
     "version": "1.0",
     "requiredUpdates": []
-  }
+  },
+  "POS-Prone": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
 }
