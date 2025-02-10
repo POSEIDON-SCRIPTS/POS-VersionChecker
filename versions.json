@@ -88,4 +88,8 @@
     "version": "1.0",
     "requiredUpdates": []
   },
+  "POS-DataWipe": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
 }
