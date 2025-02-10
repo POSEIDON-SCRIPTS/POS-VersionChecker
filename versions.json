@@ -84,4 +84,8 @@
     "version": "1.0",
     "requiredUpdates": []
   },
+  "POS-Inventory": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
 }
