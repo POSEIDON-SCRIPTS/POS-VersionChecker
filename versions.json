@@ -100,4 +100,8 @@
     "version": "1.0",
     "requiredUpdates": []
   },
+  "POS-Hud": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
 }
