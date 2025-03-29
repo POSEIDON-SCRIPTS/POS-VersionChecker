@@ -39,7 +39,7 @@
     "version": "1.2",
     "requiredUpdates": [
       {
-        "version":"100.0",
+        "version":"1.0",
         "reason":"Added support for custom progress bars"
       }
     ]
