@@ -111,5 +111,9 @@
   "POS-Farming": {
     "version": "1.0",
     "requiredUpdates": []
-  }
+  },
+  "POS-Caravan": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
 }
