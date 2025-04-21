@@ -119,5 +119,9 @@
   "POS-Badge": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-MapColor": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
