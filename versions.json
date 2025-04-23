@@ -123,5 +123,9 @@
   "POS-MapColor": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-Police": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
