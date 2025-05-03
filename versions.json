@@ -127,5 +127,13 @@
   "POS-Police": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-Zombie": {
+    "version": "1.0",
+    "requiredUpdates": []
+  },
+  "POS-IdentityCard": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
