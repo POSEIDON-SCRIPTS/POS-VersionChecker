@@ -135,5 +135,9 @@
   "POS-IdentityCard": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-ItemStacks": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
