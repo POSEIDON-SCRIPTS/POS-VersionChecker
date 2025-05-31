@@ -139,5 +139,9 @@
   "POS-ItemStacks": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-Blips": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
