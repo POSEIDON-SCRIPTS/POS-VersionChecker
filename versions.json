@@ -147,5 +147,9 @@
   "POS-WoodProcessing": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-JobAlerts": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
