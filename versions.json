@@ -143,5 +143,9 @@
   "POS-Blips": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-WoodProcessing": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
