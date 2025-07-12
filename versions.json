@@ -147,5 +147,9 @@
   "POS-Alerts": {
     "version": "1.0",
     "requiredUpdates": []
+  },
+  "POS-Design": {
+    "version": "1.0",
+    "requiredUpdates": []
   }
 }
